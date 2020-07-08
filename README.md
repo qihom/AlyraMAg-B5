@@ -1,2 +1,2 @@
-# AlyraMAg-B5
+# AlyraMag-B5
 Projet de site avec Bootstrap (en cours)
